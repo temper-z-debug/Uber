@@ -1,0 +1,2 @@
+﻿audit_time,gate_raw,p_cancel,p_completed,gap,z_score,unresolved_cancel_rate_after_impute,gate_final,action_rule
+2026-03-03 14:20:12,FAIL,1.0,0.0,1.0,361.2544,0.9889,FAIL,Stop payment-causal modeling; move to experiment-first strategy.

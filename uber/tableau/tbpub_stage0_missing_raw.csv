@@ -1,0 +1,6 @@
+﻿booking_status,n,missing_n,missing_rate
+No Driver Found,10500,10500.0,1.0
+Incomplete,9000,0.0,0.0
+Completed,93000,0.0,0.0
+Cancelled by Driver,27000,27000.0,1.0
+Cancelled by Customer,10500,10500.0,1.0
