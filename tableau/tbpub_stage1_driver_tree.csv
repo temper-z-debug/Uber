@@ -1,0 +1,2 @@
+﻿n_total,n_no_match,n_cancel,n_incomplete,n_completed,matching_rate,fulfillment_rate,payment_rate,success_rate,dS_dMatching,dS_dFulfillment,dS_dPayment,uplift_matching_1pp,uplift_fulfillment_1pp,uplift_payment_1pp,loss_share_no_match,loss_share_post_match_cancel,loss_share_post_arrival_nonpay
+150000,10500.0,37500.0,9000.0,93000.0,0.93,0.7312,0.9118,0.62,0.6667,0.8479,0.68,0.006667,0.008479,0.0068,0.1842,0.6579,0.1579

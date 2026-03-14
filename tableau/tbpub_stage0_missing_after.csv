@@ -1,0 +1,6 @@
+﻿booking_status,n,unresolved_n,unresolved_rate
+No Driver Found,10500,10381.0,0.9887
+Incomplete,9000,0.0,0.0
+Completed,93000,0.0,0.0
+Cancelled by Driver,27000,26698.0,0.9888
+Cancelled by Customer,10500,10387.0,0.9892
